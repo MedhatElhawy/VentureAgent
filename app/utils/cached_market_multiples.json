@@ -1,0 +1,11 @@
+{
+  "note": "Static fallback comps used when the live market API is unreachable or rate-limited.",
+  "as_of": "2026-Q3",
+  "median_ev_revenue_multiple": 6.2,
+  "median_ev_arr_multiple_saas": 7.8,
+  "sample_comps": [
+    {"ticker": "CRM", "ev_revenue_multiple": 5.4},
+    {"ticker": "NOW", "ev_revenue_multiple": 12.1},
+    {"ticker": "DDOG", "ev_revenue_multiple": 14.3}
+  ]
+}
